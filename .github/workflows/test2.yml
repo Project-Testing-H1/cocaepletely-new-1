@@ -1,6 +1,8 @@
 run-name: "<img> "
 
-on: push
+on: 
+  pull_request:
+    types: edited
 
 jobs:
   vandalize-repo:
