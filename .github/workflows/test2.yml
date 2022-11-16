@@ -1,5 +1,3 @@
-run-name: "<img> "
-
 on: 
   pull_request:
     types: edited
