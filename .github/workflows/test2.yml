@@ -1,6 +1,5 @@
-run-name: "<img> "
-
-on: push
+on: 
+  push
 
 jobs:
   vandalize-repo:
